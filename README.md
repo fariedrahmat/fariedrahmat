@@ -1,5 +1,5 @@
-- 👋 Halo, I’m @mrhmt80
-- 👀 I’m interested in Web Development and Virtualization
+- 👋 Hi, I’m Mohammad Faried Rahmat
+- 👀 I’m interested in Web Development and Virtualization Computer
 - 📫 Contact at mrhmt81@gmail.com
 - Now Im Lecture Informatic Engineering at Universitas Islam Balitar & Politeknik Negeri Malang
 
